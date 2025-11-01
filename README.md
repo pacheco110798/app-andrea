@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+## Características principales
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- Autenticación JWT (Login / Logout)
+- Gestión global del estado con Redux Toolkit
+- CRUD completo de una entidad (ej. Publicaciones)
+- Tabla avanzada (filtros, búsqueda, paginación, acciones)
+- Visualización de documentos PDF
+- Interfaz con PrimeReact
 
 ## Available Scripts
 
